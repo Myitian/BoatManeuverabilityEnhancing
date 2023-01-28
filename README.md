@@ -1,5 +1,6 @@
 # [BME] Boat Maneuverability Enhancing 船只操控性增强
 ![封面](https://iili.io/H0Lt6OJ.png)
+
 增强船在转向时的操控性（松开向左/向右后快速降低水平旋转速度），方便在冰面上行船。
 
 [全量版模组](https://github.com/Myitian/BoatManeuverabilityEnhancing) 使用 ClothConfig，提供游戏内修改配置的功能。

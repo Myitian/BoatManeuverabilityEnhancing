@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "boat-maneuverability-enhancing",
+  "version": "${version}",
+  "name": "Boat Maneuverability Enhancing",
+  "description": "增强船在转向时的操控性（松开向左/向右后快速降低水平旋转速度），方便在冰面上行船。",
+  "authors": [
+    "Myitian"
+  ],
+  "contact": {
+    "sources": "https://github.com/Myitian/BoatManeuverabilityEnhancing"
+  },
+  "license": "MIT",
+  "icon": "assets/boat_maneuverability_enhancing/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.myitian.boat_maneuverability_enhancing.BoatManeuverabilityEnhancing"
+    ],
+    "modmenu": [
+      "net.myitian.boat_maneuverability_enhancing.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "boat_maneuverability_enhancing.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "minecraft": "~1.19.3",
+    "java": ">=17",
+    "cloth-config": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

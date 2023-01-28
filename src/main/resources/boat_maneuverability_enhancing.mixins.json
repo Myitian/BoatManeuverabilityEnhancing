@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.myitian.boat_maneuverability_enhancing.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "BoatEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

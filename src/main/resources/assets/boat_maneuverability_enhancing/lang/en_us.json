@@ -1,0 +1,6 @@
+{
+  "text.autoconfig.boat-maneuverability-enhancing.title": "Boat Maneuverability Enhancing Config",
+  "text.autoconfig.boat-maneuverability-enhancing.option.factor": "Factor",
+  "text.autoconfig.boat-maneuverability-enhancing.option.factor.@PrefixText": "Boat maneuverability enhancing factor",
+  "text.autoconfig.boat-maneuverability-enhancing.option.factor.@Tooltip": "0 (won't stop yawing) ~ 1 (stop yawing immediately)"
+}

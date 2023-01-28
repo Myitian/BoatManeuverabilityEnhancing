@@ -1,0 +1,6 @@
+{
+  "text.autoconfig.boat-maneuverability-enhancing.title": "船只操控性增强配置",
+  "text.autoconfig.boat-maneuverability-enhancing.option.factor": "参数",
+  "text.autoconfig.boat-maneuverability-enhancing.option.factor.@PrefixText": "船只操控性增强参数",
+  "text.autoconfig.boat-maneuverability-enhancing.option.factor.@Tooltip": "0（不会阻止水平旋转） ~ 1（立即阻止水平旋转）"
+}

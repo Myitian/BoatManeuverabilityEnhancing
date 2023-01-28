@@ -8,5 +8,5 @@
 
 本模组为仅客户端模组，修改了船的操控特性，多人游戏游玩时，请向服务器管理员咨询其合法性。
 
-## Dependencies
+## Dependencies 依赖
 cloth-config
